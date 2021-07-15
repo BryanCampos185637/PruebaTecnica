@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "mdbootstrap@4.19.2",
+      "destination": "wwwroot/lib/mdbootstrap/",
+      "files": [
+        "js/mdb.min.js",
+        "css/mdb.min.css"
+      ]
+    }
+  ]
+}

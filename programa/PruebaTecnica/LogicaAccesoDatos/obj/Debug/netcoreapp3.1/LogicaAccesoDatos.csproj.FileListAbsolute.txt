@@ -1,0 +1,14 @@
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\LogicaAccesoDatos.deps.json
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\LogicaAccesoDatos.dll
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\LogicaAccesoDatos.pdb
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.csproj.CopyComplete
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.dll
+C:\Users\Bryan J. Campos\Desktop\PruebaTecnica\LogicaAccesoDatos\obj\Debug\netcoreapp3.1\LogicaAccesoDatos.pdb
